@@ -4,5 +4,6 @@
 
 DBeaver와 MySQL을 활용하여 데이터베이스를 직접 만들고 select 문으로 데이터를 출력하는 실습을 진행했습니다.
 
-<img width="423" height="401" alt="image" src="https://github.com/user-attachments/assets/5634df61-6b24-4259-beca-89c9b225b320" />
-<img width="523" height="601" alt="image" src="https://github.com/user-attachments/assets/2de8a475-8803-47fd-8e2a-f66d2f247a34" />
+<img width="411" height="475" alt="image" src="https://github.com/user-attachments/assets/e5a7ba6d-08fa-4538-a8f6-8884215bcc93" />
+<img width="527" height="408" alt="image" src="https://github.com/user-attachments/assets/8f4466f3-b3c5-47f3-9a76-53e9597bc80c" />
+
